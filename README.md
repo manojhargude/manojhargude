@@ -21,3 +21,24 @@ Git | GitHub | Postman | Swagger | Kafka | Redis
 **📫 Connect with Me**
 - LinkedIn: https://linkedin.com/in/manojhargude 
 - Email: manojhargude1316@gmail.com
+
+  ## 🌟 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat&logo=microdot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F0F0F?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-221E33?style=flat&logo=argocd&logoColor=white)
+
