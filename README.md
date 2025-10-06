@@ -46,3 +46,7 @@ Git | GitHub | Postman | Swagger | Kafka | Redis
 ![Helm](https://img.shields.io/badge/Helm-0F0F0F?style=flat&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-221E33?style=flat&logo=argocd&logoColor=white)
 
+### Tools & Other Skills
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
