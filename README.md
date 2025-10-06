@@ -43,3 +43,16 @@ I specialize in building **scalable microservices**, **REST APIs**, and **end-to
 **📫 Connect with Me**
 - LinkedIn: https://linkedin.com/in/manojhargude 
 - Email: manojhargude1316@gmail.com
+
+- ## 📫 Connect With Me
+
+Let’s build an amazing **Java, DevOps & Cloud** community together! 💡👩‍💻  
+
+🔗 **Connect with Me Everywhere!** 🌍  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojhargude) Manoj Hargude  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manojhargude1316@gmail.com) manojhargude1316@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/manoj1316) @manoj1316 (Java & DevOps Content)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manojhargude/profile-project) Profile Projects  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ManojH) ManojH – Java & DevOps Learning
+
