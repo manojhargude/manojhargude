@@ -7,7 +7,7 @@ I specialize in building **scalable microservices**, **REST APIs**, and **end-to
 **🌟 Tech Stack**
 
 **Backend:**  
-Java | Spring Boot | Microservices | REST APIs | Hibernate | PostgreSQL | MySQL  
+Java | Spring Boot | Microservices | REST APIs | MySQL  
 
 **Frontend:**  
 ReactJS | Redux | Tailwind CSS | HTML5 | CSS3 | JavaScript  
