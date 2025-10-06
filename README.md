@@ -1,16 +1,23 @@
-## Hi there 👋
+**👋 Hi, I'm Manoj Hargude**
 
-<!--
-**manojhargude/manojhargude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Java Developer | 4+ years of experience**
 
-Here are some ideas to get you started:
+I specialize in building **scalable microservices**, **REST APIs**, and **end-to-end applications** with a focus on clean code, automation, and DevOps practices. Passionate about building full-stack solutions and deploying them reliably in cloud-native environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌟 Tech Stack**
+
+**Backend:**  
+Java | Spring Boot | Microservices | REST APIs | Hibernate | PostgreSQL | MySQL  
+
+**Frontend:**  
+ReactJS | Redux | Tailwind CSS | HTML5 | CSS3 | JavaScript  
+
+**DevOps / Cloud:**  
+Jenkins | Docker | Kubernetes | Helm | ArgoCD | CI/CD Pipelines | Monitoring & Logging  
+
+**Other Tools:**  
+Git | GitHub | Postman | Swagger | Kafka | Redis
+
+**📫 Connect with Me**
+- LinkedIn: https://linkedin.com/in/manojhargude 
+- Email: manojhargude1316@gmail.com
