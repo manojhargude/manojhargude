@@ -1,4 +1,7 @@
-https://github.com/manojhargude/manojhargude/blob/main/repository-open-graph-template.png
+<p align="center">
+  <img src="https://github.com/manojhargude/manojhargude/blob/main/repository-open-graph-template.png" alt="Manoj Hargude" width="200"/>
+</p>
+
 
 **👋 Hi, I'm Manoj Hargude**
 
