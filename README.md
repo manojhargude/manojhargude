@@ -6,30 +6,10 @@ I specialize in building **scalable microservices**, **REST APIs**, and **end-to
 
 **🌟 Tech Stack**
 
-**Backend:**  
-Java | Spring Boot | Microservices | REST APIs | MySQL  
-
-**Frontend:**  
-ReactJS | Redux | Tailwind CSS | HTML5 | CSS3 | JavaScript  
-
-**DevOps / Cloud:**  
-Jenkins | Docker | Kubernetes | Helm | ArgoCD | CI/CD Pipelines | Monitoring & Logging  
-
-**Other Tools:**  
-Git | GitHub | Postman | Swagger | Kafka | Redis
-
-**📫 Connect with Me**
-- LinkedIn: https://linkedin.com/in/manojhargude 
-- Email: manojhargude1316@gmail.com
-
-  ## 🌟 Tech Stack
-
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat&logo=microdot)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=rest&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,9 +28,9 @@ Git | GitHub | Postman | Swagger | Kafka | Redis
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### DevOps & Cloud
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F0F0F?style=flat&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-221E33?style=flat&logo=argocd&logoColor=white)
 
@@ -59,3 +39,7 @@ Git | GitHub | Postman | Swagger | Kafka | Redis
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=flat&logo=spring&logoColor=white)
+
+**📫 Connect with Me**
+- LinkedIn: https://linkedin.com/in/manojhargude 
+- Email: manojhargude1316@gmail.com
