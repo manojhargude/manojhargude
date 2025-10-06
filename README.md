@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/manojhargude/profile-project/raw/main/assets/profile.jpg" alt="Manoj Hargude" width="200" style="border-radius:50%;"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Manoj Hargude</h1>
-
 **👋 Hi, I'm Manoj Hargude**
 
 💻 **Full Stack Java Developer | 4+ years of experience**
