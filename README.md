@@ -38,6 +38,10 @@ I specialize in building **scalable microservices**, **REST APIs**, and **end-to
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F0F0F?style=flat&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-221E33?style=flat&logo=argocd&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+
+
 
 **Tools & Other Skills**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -47,11 +51,11 @@ I specialize in building **scalable microservices**, **REST APIs**, and **end-to
 
 
 
-🔗 **Connect with Me Everywhere!** 🌍  
+🔗 **Connect with Me**   
 Let’s build an amazing **Java, DevOps & Cloud** community together! 💡👩‍💻  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-hargude) Manoj Hargude  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manojhargude1316@gmail.com) manojhargude1316@gmail.com  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/manoj1316) @manoj1316    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manojhargude/profile-project) Profile Projects  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ManojH) ManojH – Java & DevOps Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-hargude)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manojhargude1316@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manojhargude/profile-project)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com)
 
